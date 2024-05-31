@@ -1,0 +1,9 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`test AppBack mount 1`] = `
+"<button class="var-button var--box var-button--normal var--inline-flex var-button--text var-button--text-default var-button--round" style="color: rgb(255, 255, 255); background: transparent;" type="button">
+  <!--v-if-->
+  <div class="var-button__content"><i class="var-icon var-icon--set var-icon-chevron-left text-[30px]!" style="transition-duration: 0ms;"></i></div>
+  <div class="var-hover-overlay"></div>
+</button>"
+`;
